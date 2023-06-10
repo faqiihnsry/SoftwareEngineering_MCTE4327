@@ -1,0 +1,11 @@
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\bin\Debug\CA_Server.exe.config
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\bin\Debug\CA_Server.exe
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\bin\Debug\CA_Server.pdb
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Client.csproj.AssemblyReference.cache
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Server.Client.resources
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Server.Properties.Resources.resources
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Client.csproj.GenerateResource.cache
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Client.csproj.CoreCompileInputs.cache
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Server.exe
+C:\Users\faqiihnasary\source\repos\CA_Client\CA_Server\obj\Debug\CA_Server.pdb

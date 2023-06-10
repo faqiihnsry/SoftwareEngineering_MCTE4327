@@ -1,0 +1,11 @@
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\bin\Debug\CA_Server.exe.config
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\bin\Debug\CA_Server.exe
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\bin\Debug\CA_Server.pdb
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.AssemblyReference.cache
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.Properties.Resources.resources
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.GenerateResource.cache
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.csproj.CoreCompileInputs.cache
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.exe
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.pdb
+C:\Users\faqiihnasary\source\repos\CA_Server\CA_Server\obj\Debug\CA_Server.Server.resources
